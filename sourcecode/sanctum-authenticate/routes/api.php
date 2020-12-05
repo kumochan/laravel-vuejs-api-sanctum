@@ -27,7 +27,6 @@ Route::post('/login', function (Request $request) {
         'password' => 'required'
     ]);
 
-
     $user = User::where('email', $request->email)->first();
 
 
