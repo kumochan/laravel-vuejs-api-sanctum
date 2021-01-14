@@ -13,7 +13,15 @@
     <pharConfigPath>$PROJECT_DIR$/sanctum-authenticate/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="sanctum.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sanctum-authenticate/config/sanctum.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-283" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -1560,12 +1568,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607153155061</updated>
-      <workItem from="1607153158258" duration="1410000" />
+      <workItem from="1607153158258" duration="1636000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1410000" />
+    <option name="totallyTimeSpent" value="1636000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="849" y="102" width="1440" height="822" extended-state="0" />
@@ -1666,6 +1674,11 @@
             <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sanctum-authenticate/config/sanctum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-283" />
       </provider>
     </entry>
   </component>
